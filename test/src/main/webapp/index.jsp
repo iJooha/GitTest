@@ -12,7 +12,7 @@
   <body>
 	
 	<%@ include file="header.jsp" %>
-
+<div>
     <section>
       <h3>쇼핑몰회원관리 프로그램</h3>
       <h4>쇼핑몰 회원정보와 회원매출정보 데이타베이스를 구축하고 회원관리 프로그램을 작성하는 프로그램이다.</h4>
@@ -24,7 +24,7 @@
         <li>회원매출정보 조회 프로그램를 작성한다.</li>
       </ol>
     </section>
-      
+</div>
     <%@ include file="footer.jsp" %>
 
 
